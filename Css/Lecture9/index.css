@@ -1,0 +1,91 @@
+/* * {
+    color:blueviolet;
+} */ */
+
+span {
+    color: brown;
+}
+
+h3 {
+    color: red;
+}
+
+a,li{
+    color: rgb(123, 123, 222);
+}
+
+.hello {
+      color: crimson;
+}
+.hii {
+    background-color: blue;
+}
+
+h1 {
+    color: blanchedalmond;
+}
+
+.rakhi {
+    color: rgb(196, 123, 28);
+}
+
+#Bhavya {
+     color: rgb(67, 17, 107);
+}
+
+
+#Uttam {
+    color: aqua;
+    background-color: black;
+}
+
+div p {
+    color: blue;
+} 
+
+ div > p {
+    color: brown;
+}
+
+a+p {
+    color: blue;
+}
+
+a~p {
+    color: blue;
+}
+
+h1:hover {
+    background-color: red;
+}
+
+li:hover { 
+    color: red;
+}
+
+li:first-child {
+    color: green;
+}
+
+li:nth-child(2n+1) {
+    color: red;
+}
+
+h1::after {
+    content: " Ji";
+}
+
+h1::first-letter {
+    color: brown;
+}
+ 
+ 
+h1::before {
+    content: "Hii ";
+}
+
+::selection {
+    color:rgb(67, 17, 107);
+    background-color: red;
+}
+

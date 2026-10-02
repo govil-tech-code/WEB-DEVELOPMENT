@@ -1,0 +1,78 @@
+h1 {
+    /* background-color: brown; */
+    font-size:100px;
+}
+
+#wrapper {
+    /* background: linear-gradient(to right, red,blue); */
+    /* background: linear-gradient(45deg,red,blue,orange,pink,yellow);
+    */
+   
+    /* background: conic-gradient(red,yellow,green); */
+
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnv7mhi36eLJi7_0fH-VysbI9lyJtOz3SfQnEWIprlA&s=10);
+
+    border: 1px solid black; */
+    /* background-repeat: no-repeat; */
+
+    /* background-position:right; */
+    /* background-size: contain;
+     */
+
+     /* border-width: 10px;
+     border-style: solid;
+     border-color: red; */
+
+     border: 10px solid blueviolet;
+
+     padding: 230px;
+  
+    height: c00px;
+    margin: 40px;
+
+    width: 1000px;
+    box-sizing: border-box;
+}
+
+
+#Daisy {
+  border: 5px solid red;
+  margin: auto;
+  text-align: center;
+}
+
+   #mahi {
+    border: 5px solid red;
+     width: 100px;
+     margin: auto;
+   }
+
+  p{
+ border: 5px solid red;
+   /* border: top bottom left right; */
+   padding: 40px 40px 40px 40px; 
+   padding: 40px 0;
+   margin: 40px;
+}
+
+span {
+    padding: 20px;
+    border: 3px solid red;
+    margin-left:40px ;
+}
+
+#ankur {
+   display: inline-block;
+   width: 50px;
+   height: 50px;
+
+}
+
+#bholu {
+    border: 1px solid red;
+     padding: 40px;
+    box-sizing: border-box;
+}
+
+
+
